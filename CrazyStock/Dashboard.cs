@@ -43,9 +43,6 @@ namespace CrazyStock
         /// <param name="pFromMail">寄件的Email</param>
         public void SendByMail()
         {
-            //建立 SmtpClient 物件 並設定 Gmail的smtp主機及Port  
-            //System.Net.Mail.SmtpClient MySmtp = new System.Net.Mail.SmtpClient("smtp.gmail.com", 587);
-
             MailMessage mail = new MailMessage();
             //前面是發信email後面是顯示的名稱
             mail.From = new MailAddress("xiastudio93@gmail.com", "CrazyStock");
@@ -83,14 +80,7 @@ namespace CrazyStock
             //放掉宣告出來的mail
             mail.Dispose();
 
-            //設定你的帳號密碼
-            //MySmtp.Credentials = new System.Net.NetworkCredential("xiastudio93", "kehubvfdwmdafndl");
-
-            //Gmial 的 smtp 必需要使用 SSL
-            //MySmtp.EnableSsl = true;
-
-            //發送Email
-            //MySmtp.Send("xiastudio93@gmail.com", "tony3310t@gmail.com", "C# Gmail發信測試", "文件內容"); MySmtp.Dispose();
+            
         }
     }
 }
