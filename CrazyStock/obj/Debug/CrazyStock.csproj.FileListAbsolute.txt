@@ -1,0 +1,16 @@
+E:\CrazyStock\CrazyStock\bin\Debug\CrazyStock.exe.config
+E:\CrazyStock\CrazyStock\bin\Debug\CrazyStock.exe
+E:\CrazyStock\CrazyStock\bin\Debug\CrazyStock.pdb
+E:\CrazyStock\CrazyStock\bin\Debug\CSkin.dll
+E:\CrazyStock\CrazyStock\bin\Debug\CSkin.xml
+E:\CrazyStock\CrazyStock\obj\Debug\CrazyStock.csprojResolveAssemblyReference.cache
+E:\CrazyStock\CrazyStock\obj\Debug\CrazyStock.Dashboard.resources
+E:\CrazyStock\CrazyStock\obj\Debug\CrazyStock.Properties.Resources.resources
+E:\CrazyStock\CrazyStock\obj\Debug\CrazyStock.csproj.GenerateResource.Cache
+E:\CrazyStock\CrazyStock\obj\Debug\CrazyStock.exe
+E:\CrazyStock\CrazyStock\obj\Debug\CrazyStock.pdb
+E:\CrazyStock\CrazyStock\bin\Debug\irisskin2.dll
+E:\CrazyStock\CrazyStock\obj\Debug\CrazyStock.Ronche.resources
+E:\CrazyStock\CrazyStock\bin\Debug\Newtonsoft.Json.dll
+E:\CrazyStock\CrazyStock\bin\Debug\Newtonsoft.Json.xml
+E:\CrazyStock\CrazyStock\obj\Debug\CrazyStock.WaterOne.resources
